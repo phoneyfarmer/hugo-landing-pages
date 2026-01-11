@@ -1,6 +1,6 @@
 baseURL: 'https://hugo-landing-sections.demo.vadecodi.net'
 defaultContentLanguage: en
-title: 'Example Site of hugo-landing-sections '
+title: 'Boyertown Rotary Club'
 theme: 'hugo-landing-sections'
 
 disableKinds:
@@ -8,37 +8,36 @@ disableKinds:
   - taxonomy
 
 params:
-  author: Author Example
+  author: Hiriam Shorey
   contact:
-    email: info@example.com
+    email: info@boyertownrotary.org
     phones:
-      - (+00) 000 000 000
-      - (+11) 111 111 111
-  description: "hugo-landing-sections theme example site"
-  fediverseCreator: "@Mastodon@mastodon.social"
-  mastodon:
-    btnReload: ''
-    btnSeeMore: ''
-    hideCounterBar: true
-    hideReplies: true
-    instance: https://mastodon.social
-    timeline: true
-    timelineType: profile
-    userId: "13179"
-    userName: "@Mastodon"
+        - (+1) 888 555 111
+  description: "Boyertown Rotary Club Landing Page"
+#  fediverseCreator: "@Mastodon@mastodon.social"
+#  mastodon:
+#    btnReload: ''
+#    btnSeeMore: ''
+#    hideCounterBar: true
+#    hideReplies: true
+#    instance: https://mastodon.social
+#    timeline: true
+#    timelineType: profile
+#    userId: "13179"
+#    userName: "@Mastodon"
   repos:
-    git: https://codeberg.org/VaDeCodiNet/hugo-landing-sections
+    git: https://github.com/phoneyfarmer/hugo-landing-pages
 
 languages:
   ca:
-    disabled: false
+    disabled: true
     languageCode: ca
     languageName: Català
     params:
       subtitle: Un subtítol genial
 
   es:
-    disabled: false
+    disabled: true
     languageCode: es
     languageName: Castellano
     params:
