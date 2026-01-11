@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on My New Hugo Site</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About 1</title>
+      <link>http://localhost:1313/about/about1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about1/</guid>
+      <description>&lt;h2 id=&#34;lorem-ipsum-dolor-sit-amet&#34;&gt;Lorem ipsum dolor sit amet&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ante tortor,&#xA;rutrum id ligula sed, ornare elementum mauris. Curabitur in sem in nisi lacinia&#xA;feugiat id at dolor. Etiam fringilla libero sed tortor egestas, eget vestibulum&#xA;quam placerat. Duis dapibus nec quam a semper. Nullam dignissim ex quis purus&#xA;bibendum aliquam vel quis nulla. Curabitur mollis augue lacus, in facilisis est&#xA;varius a. Integer est enim, pharetra lacinia interdum non, tristique at tellus.&#xA;Phasellus volutpat consequat enim vel vulputate. Ut vestibulum faucibus sodales.&#xA;Duis sit amet neque id leo condimentum dapibus. Fusce tempus leo sollicitudin&#xA;felis venenatis viverra. Maecenas mollis porta fermentum. Suspendisse semper sem&#xA;quis felis dapibus, consectetur gravida velit aliquet. Proin malesuada, risus&#xA;quis interdum sollicitudin, velit eros tristique ligula, a porttitor odio nisl&#xA;non nulla.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About 2</title>
+      <link>http://localhost:1313/about/about2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/about2/</guid>
+      <description>&lt;h2 id=&#34;aliquam-cursus-congue-tellus-at-bibendum&#34;&gt;Aliquam cursus congue tellus at bibendum&lt;/h2&gt;&#xA;&lt;p&gt;Suspendisse consequat consequat hendrerit. Fusce vel quam mauris. Sed ut tortor&#xA;interdum odio suscipit interdum ut volutpat nunc. Nam dictum consequat mauris,&#xA;nec lobortis ex eleifend ut. Maecenas a purus velit. Sed rhoncus quis risus ac&#xA;interdum. Sed tempor feugiat ex, eget ullamcorper dui condimentum molestie.&#xA;Maecenas vitae magna at quam bibendum fringilla eget eget ante.&lt;/p&gt;&#xA;&lt;p&gt;Duis pretium massa justo. Curabitur non ex luctus, tristique arcu vitae, cursus&#xA;lorem. Aliquam nec tempor velit. Suspendisse accumsan felis eget dui euismod&#xA;tempor. Integer finibus, metus sit amet tincidunt malesuada, ante ante accumsan&#xA;ante, vitae pharetra lorem enim at sapien. Sed quam libero, imperdiet ac elit&#xA;ut, fringilla lobortis dui. Quisque pharetra et arcu in fermentum. Donec eu&#xA;tincidunt sapien, ut mollis dui. Fusce finibus velit libero, sed venenatis ex&#xA;porttitor vitae. Vivamus ac massa lacinia, ullamcorper dui nec, rhoncus lacus.&#xA;Curabitur lacinia, tortor in facilisis molestie, enim urna pulvinar ligula, non&#xA;ultricies ligula eros non dui. Curabitur ac luctus nibh.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

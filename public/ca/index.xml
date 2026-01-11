@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Example Site of hugo-landing-sections </title>
+    <link>http://localhost:1313/ca/</link>
+    <description>Recent content on Example Site of hugo-landing-sections </description>
+    <generator>Hugo</generator>
+    <language>ca</language>
+    <atom:link href="http://localhost:1313/ca/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Destacat 1</title>
+      <link>http://localhost:1313/ca/highlights/highlight1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/highlights/highlight1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porttitor, lorem&#xA;eget malesuada ornare, mi velit gravida lacus, egestas consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quant a 1</title>
+      <link>http://localhost:1313/ca/about/about1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/about/about1/</guid>
+      <description>&lt;h2 id=&#34;lorem-ipsum-dolor-sit-amet&#34;&gt;Lorem ipsum dolor sit amet&lt;/h2&gt;&#xA;&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean ante tortor,&#xA;rutrum id ligula sed, ornare elementum mauris. Curabitur in sem in nisi lacinia&#xA;feugiat id at dolor. Etiam fringilla libero sed tortor egestas, eget vestibulum&#xA;quam placerat. Duis dapibus nec quam a semper. Nullam dignissim ex quis purus&#xA;bibendum aliquam vel quis nulla. Curabitur mollis augue lacus, in facilisis est&#xA;varius a. Integer est enim, pharetra lacinia interdum non, tristique at tellus.&#xA;Phasellus volutpat consequat enim vel vulputate. Ut vestibulum faucibus sodales.&#xA;Duis sit amet neque id leo condimentum dapibus. Fusce tempus leo sollicitudin&#xA;felis venenatis viverra. Maecenas mollis porta fermentum. Suspendisse semper sem&#xA;quis felis dapibus, consectetur gravida velit aliquet. Proin malesuada, risus&#xA;quis interdum sollicitudin, velit eros tristique ligula, a porttitor odio nisl&#xA;non nulla.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secció 1</title>
+      <link>http://localhost:1313/ca/sections/section1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/sections/section1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ut turpis et urna&#xA;tempus tincidunt sit amet ac mauris. Aliquam eget cursus odio. Pellentesque&#xA;habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.&#xA;Nunc id magna sollicitudin mi posuere ultricies id vitae ante. Sed iaculis leo&#xA;at nulla molestie, non ornare ipsum rutrum. Nulla facilisi. Mauris tempus erat&#xA;auctor enim pharetra aliquet. Phasellus placerat id neque quis aliquam. Morbi&#xA;nec felis luctus, euismod libero vel, lacinia dui. Aenean et molestie urna.&#xA;Aliquam erat volutpat. In et placerat ex, at tincidunt eros. Nam eu felis ut&#xA;orci aliquet pulvinar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Destacat 2</title>
+      <link>http://localhost:1313/ca/highlights/highlight2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/highlights/highlight2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porttitor, lorem&#xA;eget malesuada ornare, mi velit gravida lacus, egestas consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Quant a 2</title>
+      <link>http://localhost:1313/ca/about/about2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/about/about2/</guid>
+      <description>&lt;h2 id=&#34;aliquam-cursus-congue-tellus-at-bibendum&#34;&gt;Aliquam cursus congue tellus at bibendum&lt;/h2&gt;&#xA;&lt;p&gt;Suspendisse consequat consequat hendrerit. Fusce vel quam mauris. Sed ut tortor&#xA;interdum odio suscipit interdum ut volutpat nunc. Nam dictum consequat mauris,&#xA;nec lobortis ex eleifend ut. Maecenas a purus velit. Sed rhoncus quis risus ac&#xA;interdum. Sed tempor feugiat ex, eget ullamcorper dui condimentum molestie.&#xA;Maecenas vitae magna at quam bibendum fringilla eget eget ante.&lt;/p&gt;&#xA;&lt;p&gt;Duis pretium massa justo. Curabitur non ex luctus, tristique arcu vitae, cursus&#xA;lorem. Aliquam nec tempor velit. Suspendisse accumsan felis eget dui euismod&#xA;tempor. Integer finibus, metus sit amet tincidunt malesuada, ante ante accumsan&#xA;ante, vitae pharetra lorem enim at sapien. Sed quam libero, imperdiet ac elit&#xA;ut, fringilla lobortis dui. Quisque pharetra et arcu in fermentum. Donec eu&#xA;tincidunt sapien, ut mollis dui. Fusce finibus velit libero, sed venenatis ex&#xA;porttitor vitae. Vivamus ac massa lacinia, ullamcorper dui nec, rhoncus lacus.&#xA;Curabitur lacinia, tortor in facilisis molestie, enim urna pulvinar ligula, non&#xA;ultricies ligula eros non dui. Curabitur ac luctus nibh.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secció 2</title>
+      <link>http://localhost:1313/ca/sections/section2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/sections/section2/</guid>
+      <description>&lt;p&gt;Ut eget erat dolor. Aliquam eget rutrum purus. Integer porttitor sem nec erat&#xA;fermentum, eget varius sapien luctus. Fusce ut libero eros. Aenean nec sodales&#xA;lorem. Curabitur pellentesque, lorem ac accumsan efficitur, libero purus&#xA;ullamcorper sem, nec pharetra tortor elit non enim. Cras lobortis commodo diam,&#xA;ut commodo ipsum consectetur eu. Phasellus id quam posuere, tempor velit rutrum,&#xA;semper mauris. Fusce odio mi, varius a auctor vel, porta non mi. Duis suscipit&#xA;erat ac mi mattis, venenatis pharetra nulla vulputate. Vestibulum leo purus,&#xA;porta nec nunc quis, bibendum consequat massa.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Destacat 3</title>
+      <link>http://localhost:1313/ca/highlights/highlight3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/highlights/highlight3/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam porttitor, lorem&#xA;eget malesuada ornare, mi velit gravida lacus, egestas consequat.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Secció 3</title>
+      <link>http://localhost:1313/ca/sections/section3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/sections/section3/</guid>
+      <description>&lt;p&gt;Donec vestibulum, justo eu lobortis accumsan, arcu diam euismod massa, molestie&#xA;lobortis leo libero id tellus. Aenean commodo massa ac diam accumsan, a posuere&#xA;ex volutpat. Donec ullamcorper et risus a accumsan. Morbi vitae consectetur&#xA;erat. Curabitur tincidunt fermentum aliquet. Nullam at lacus ac justo dignissim&#xA;pellentesque. Mauris malesuada rutrum nisi. Proin gravida, turpis vitae sagittis&#xA;vehicula, nibh nunc iaculis arcu, eget tincidunt quam ante id enim. Ut sit amet&#xA;arcu a quam scelerisque sodales. Morbi vitae nunc dui. Cras ut congue elit.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Legal 1</title>
+      <link>http://localhost:1313/ca/legal/legal1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/legal/legal1/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna massa,&#xA;vehicula facilisis nunc a, hendrerit feugiat ligula. Donec faucibus sit amet&#xA;massa eu eleifend. Vivamus porttitor massa a rutrum cursus. Pellentesque laoreet&#xA;felis eget lacus tempus, quis blandit nunc rutrum. Etiam sollicitudin congue&#xA;dolor, eu dignissim lacus feugiat id. Nam a felis urna. Nulla rhoncus quis justo&#xA;lacinia vehicula. Nunc in magna turpis. Phasellus quis augue enim. Donec aliquet&#xA;imperdiet ex vel semper.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Legal 2</title>
+      <link>http://localhost:1313/ca/legal/legal2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ca/legal/legal2/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec urna massa,&#xA;vehicula facilisis nunc a, hendrerit feugiat ligula. Donec faucibus sit amet&#xA;massa eu eleifend. Vivamus porttitor massa a rutrum cursus. Pellentesque laoreet&#xA;felis eget lacus tempus, quis blandit nunc rutrum. Etiam sollicitudin congue&#xA;dolor, eu dignissim lacus feugiat id. Nam a felis urna. Nulla rhoncus quis justo&#xA;lacinia vehicula. Nunc in magna turpis. Phasellus quis augue enim. Donec aliquet&#xA;imperdiet ex vel semper.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

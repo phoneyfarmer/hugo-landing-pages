@@ -1,0 +1,3 @@
+[submodule "themes/hugo-landing-sections"]
+	path = themes/hugo-landing-sections
+	url = https://codeberg.org/VaDeCodiNet/hugo-landing-sections.git
